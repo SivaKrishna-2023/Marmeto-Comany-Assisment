@@ -30,3 +30,8 @@ script.js: JavaScript file responsible for fetching data from the API and updati
 # Usage 
 
 1. Open the index.html file in a web browser. 2. The product details, including title, description, price, and color options, will be dynamically fetched and displayed on the page. 3. You can choose a color and size, view the product images, and find information about pricing and discounts.
+
+
+# Deployment
+
+The project is deployed on Netlify. You can view it at the following link: [https://siva-krishna-2023.netlify.app/]
