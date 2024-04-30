@@ -26,3 +26,7 @@ script.js: JavaScript file responsible for fetching data from the API and updati
 
      git clone https://github.com/AryanMaurya001/Marmeto-Assignment.git
 
+
+# Usage 
+
+1. Open the index.html file in a web browser. 2. The product details, including title, description, price, and color options, will be dynamically fetched and displayed on the page. 3. You can choose a color and size, view the product images, and find information about pricing and discounts.
