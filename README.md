@@ -1,4 +1,4 @@
-# Marmeto-Comany-Assisment
+# Marmeto-Comany-Assignment
 
 # Product Details Page
 
